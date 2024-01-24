@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f6b960e605b13ea3",
+        "id": "810daef032ad7a25",
         "type": "tabs",
         "children": [
           {
-            "id": "e5ca6e888c1f57d6",
+            "id": "c05374d6383fd240",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,6 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5ca6e888c1f57d6",
-  "lastOpenFiles": []
+  "active": "c05374d6383fd240",
+  "lastOpenFiles": [
+    "Methodology/Workflow.md",
+    "inspired.md",
+    "why I need a second brain.md",
+    "Methodology"
+  ]
 }

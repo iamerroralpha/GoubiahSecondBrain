@@ -1,0 +1,3 @@
+I will commit to give at least one hour a day to the development of an idea, it can be whatever makes me feel very createive or [[inspired]] and the uses my skills, which are a weird combination of computer science, economics and robotics. This will be kind of like my manifesto rom now on.
+
+I will also give myself some time to write whatever I feel like for about 10 to 20 minutes. It can be literally whtever thing I have in my head, and this one of the reasons [[why I need a second brain]].
